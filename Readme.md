@@ -7,4 +7,4 @@ This file contains all of the programs done in class during lecture and also ass
 ### Sanket Singh Sir
 
 ## Content Owner
-This repository is created by Anurag Bhattacharjee (GitHam777)
+This repository is created by Anurag Bhattacharjee [(GitHam777)](https://www.github.com/GitHam777)
